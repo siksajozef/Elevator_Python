@@ -10,3 +10,5 @@ set the current position of the elevator (the number of the floor the elevator i
 set the direction of the elevator in which the elevator is moving in.
 
 OUTPUT:
+Seek (and real) sequence of the elevator, 
+Total number of seek operations of the elevator (total numbers of motions of the elevator).
